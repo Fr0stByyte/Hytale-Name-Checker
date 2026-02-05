@@ -1,5 +1,3 @@
 # Hytale Name Checker
 
-A simple program that checks whether a set of usernames provided by the user is valid for use on Hytale.
-Written in Rust
-Originally created around mid-January, brought onto GitHub later.
+A simple program that checks whether a set of usernames provided by the user is valid for use on Hytale. Written in Rust. Originally created around mid-January, brought onto GitHub later.
